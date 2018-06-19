@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Response>
-  <Say>I will pause 3 minutes starting now!</Say>
-  <Pause length="180"></Pause>
-  <Say>I just paused 3 minutes</Say>
+  <Say>I will play cowbell for 52 seconds!</Say>
+  <Play loop="1">https://api.twilio.com/cowbell.mp3</Play>
   <Hangup></Hangup>
 </Response>
