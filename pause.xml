@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Response>
-  <Say>I will pause 3 minutes starting now!</Say>
-  <Pause length="180"></Pause>
-  <Say>I just paused 3 minutes</Say>
+  <Say>I will play some sounds starting now!</Say>
+  <Play>https://rizqi101.github.io/twilio-voice-response/audio/space-time.mp3</Play>
+  <Say>I will hangup</Say>
   <Hangup></Hangup>
 </Response>
