@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Response>
-  <Play digits="www1"/>
   <Say>I will play some sounds starting now!</Say>
   <Play>http://demo.twilio.com/docs/classic.mp3</Play>
   <Say>I will hangup</Say>
